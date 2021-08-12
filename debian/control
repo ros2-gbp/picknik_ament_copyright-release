@@ -1,0 +1,12 @@
+Source: ros-foxy-picknik-ament-copyright
+Section: misc
+Priority: optional
+Maintainer: Joe Schornak <joseph.schornak@picknik.ai>
+Build-Depends: debhelper (>= 9.0.0), python3-pytest, ros-foxy-ament-flake8, ros-foxy-ament-pep257, ros-foxy-ros-workspace, python3-all, python3-setuptools
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-foxy-picknik-ament-copyright
+Architecture: any
+Depends: ${python3:Depends}, ${misc:Depends}, ros-foxy-ament-copyright, ros-foxy-ros-workspace
+Description: Check PickNik-specific copyright headers.
