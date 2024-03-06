@@ -128,4 +128,5 @@ tracks:
     ros_distro: rolling
     vcs_type: git
     vcs_uri: git@github.com:PickNikRobotics/picknik_ament_copyright.git
-    version: :{auto}
+    version: 0.0.2
+    version_saved: :{auto}
