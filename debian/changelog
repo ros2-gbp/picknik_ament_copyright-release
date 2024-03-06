@@ -1,0 +1,18 @@
+ros-rolling-picknik-ament-copyright (0.0.2-4noble) noble; urgency=high
+
+  * add name for the SPDX identifier argument (#2 <https://github.com/PickNikRobotics/picknik_ament_copyright/issues/2>)
+  * Contributors: Joe Schornak
+
+ -- Joe Schornak <joseph.schornak@picknik.ai>  Thu, 12 Aug 2021 00:00:00 -0000
+
+ros-rolling-picknik-ament-copyright (0.0.1-4noble) noble; urgency=high
+
+  * use PickNik Inc. as copyright name (#1 <https://github.com/PickNikRobotics/picknik_ament_copyright/issues/1>)
+  * add readme with instructions
+  * update license in setup.py file
+  * initial commit for PickNik proprietary license
+  * Contributors: Joe Schornak
+
+ -- Joe Schornak <joseph.schornak@picknik.ai>  Thu, 12 Aug 2021 00:00:00 -0000
+
+
